@@ -1,4 +1,4 @@
-#!/bin/bash
+
 # 简单的 configure 脚本
 echo "Creating Makefile..."
 cat > Makefile << 'EOF'
